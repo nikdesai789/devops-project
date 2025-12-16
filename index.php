@@ -14,7 +14,7 @@ session_start();
     <div class="container">
         <h1>Airline Reservation System</h1>
         <nav>
-            <a href="about.php">About</a>
+            <a href="about.php">About Website</a>
             <?php if(!isset($_SESSION['user_id'])): ?>
                 <a href="register.php">Register</a>
                 <a href="login.php">Login</a>
