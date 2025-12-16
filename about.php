@@ -1,3 +1,4 @@
+<!-- Testing GitHub Actions -->
 <?php
 session_start();
 ?>
